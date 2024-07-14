@@ -1,16 +1,10 @@
-# Hello, World!
+# Hi
 
 My name is Minh.
 
-A Vietnamese student who recently graduated with a bachelor's degree in Business Administration.
+A Vietnamese student who wanted to become a developer. 😆
 
-And then, boom! I decided to become a developer 😆
-
-I was fortunate enough to find [The Odin Project Full-Stack Web Development Curriculum](https://www.theodinproject.com/paths/full-stack-javascript) and completed it. It was quite intense for a non-native speaker like me, but it was all worth it. Now I'm a full-time Linux user (Arch) who believes I can learn anything and have fun building things and solving problems.
-
-I was also lucky to find [The Primeagen](https://www.youtube.com/@ThePrimeTimeagen), my favorite content creator and a great source of inspiration for me in Software Engineering ([he encouraged me to learn Vim](https://youtu.be/1UXHsCT18wE?si=LPrc_wPtp0ky-QMW&t=70)). Love this guy!
-
-And, it's still very early days for me in programming and software engineering, so I'm currently seeking an intern/fresher position in web development where I can contribute my abilities to a team and learn to build great software.
+I kick-started my career in web development with [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) and enhanced my journey with a lot of inspiration from [The Primeagen](https://youtu.be/1UXHsCT18wE?si=LPrc_wPtp0ky-QMW&t=70).
 
 It was really fun ( :
 
@@ -28,15 +22,15 @@ Key Competencies
 
 Basic Knowledge
 
-- Lang: C, Python, Lua
+- Lang: C, C#, Python, Lua, SQL
 - Front: NextJS
-- Back: Flask, SQL, SQLite
+- Back: Flask, SQLite
 - Testing: Vitest
 - Deploy: Netlify, Gh-pages
 
 My Environment
 
-- OS: Arch
+- OS: Ubuntu
 - Editor: Neovim
 - Terminal: Alacritty
 - Browser: Brave
@@ -46,15 +40,6 @@ My Environment
 </details>
 
 <details>
-<summary><strong>My Coding Sites</strong></summary>
-
-- [Exercism](https://exercism.org/profiles/minhhoccode111)
-- [Leetcode](https://leetcode.com/minhhoccode111/)
-- [Codewars](https://www.codewars.com/users/minhhoccode111)
-
-</details>
-
-<details open>
 <summary><strong>My Projects</strong></summary>
 
 - Usually projects with Express, React
@@ -62,8 +47,8 @@ My Environment
 
 | Name                | Deploy                                             | Repo                                                                 | Tech Stacks and Tools                                                                                                                                                                                                                       |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Personal Site       | [view](https://minhhoccode111.vercel.app)          | [view](https://github.com/minhhoccode111/personal-site)              | Back: `Express` `MongoDB` `Mongoose` `Passport` `Google Auth` `JWT` `Rest.nvim` `Glitch` <br> Front:                                                                                                                                        |
-| Practice C          | -                                                  | [view](https://github.com/minhhoccode111/practice-c)                 | `C` `DSA`                                                                                                                                                                                                                                   |
+| Personal Site       | (...)                                              | [view](https://github.com/minhhoccode111/personal-site)              | Back: `Express` `MongoDB` `Mongoose` `Passport` `Google Auth` `JWT` `Rest.nvim` `Glitch` <br> Front:                                                                                                                                        |
+| Exercises           | -                                                  | [view](https://github.com/minhhoccode111/exercises)                  |                                                                                                                                                                                                                                             |
 | CS50x               | -                                                  | [view](https://github.com/minhhoccode111/cs50x)                      | `Scratch` `C` `DSA` `Python` `SQL` `HTML` `CSS` `JS` `Flask` `Security` `AI`                                                                                                                                                                |
 | Fakebook Messing    | [view](https://fakebookmessing.vercel.app)         | [view](https://github.com/minhhoccode111/fakebook-messing)           | Back: `Express` `MongoDB` `Mongoose` `Passport` `JWT` `Rest.nvim` `Glitch` `TDD` `Bun` `Supertest` `Mongodb memory server` <br> Front: `TS` `React` `React Router` `Shadcn` `Tailwind` `Zustand` `React Form` `Zod` `Axios` `Vite` `Vercel` |
 | Nvim                | -                                                  | [view](https://github.com/minhhoccode111/nvim)                       | `Neovim` `Lua`                                                                                                                                                                                                                              |
@@ -89,33 +74,28 @@ My Environment
 - Or experiment a real-world codebase
 - Or a dummy app I made for fun
 
-| Name                | Deploy                                                                 | Repo                                                                    | Tech stack and tools                                          |
-| ------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Real World Express  | -                                                                      | [view](https://github.com/minhhoccode111/0-realworld-back-express)      | `Express` `MongoDB` `Mongoose` `JWT` `Rest.nvim`              |
-| Focus Train         | [view](https://focustrain.vercel.app)                                  | [view](https://github.com/minhhoccode111/focus-train)                   | `React` `Tailwind` `Vite` `Netlify`                           |
-| Homepage            | [view](https://minhhoccode111.github.io/homepage-top/)                 | [view](https://github.com/minhhoccode111/homepage-top)                  | `JS` `HTML` `CSS` `Webpack` `Tailwind` `Gh-pages`             |
-| Battleship          | [view](https://minhhoccode111.github.io/battleship-top/)               | [view](https://github.com/minhhoccode111/battleship-top/)               | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
-| Testing Practice    | -                                                                      | [view](https://github.com/minhhoccode111/testing-practice-top)          | `JS` `Jest`                                                   |
-| Operate Algorithms  | [view](https://knighttravailstop.netlify.app/)                         | [view](https://github.com/minhhoccode111/operate-algorithms/)           | `React` `Tailwind` `Vite` `Netlify`                           |
-| Knights Travails    | [view](https://knighttravailstop.netlify.app/)                         | [view](https://github.com/minhhoccode111/knights-travails-top)          | `JS` `DSA`                                                    |
-| Binary Search Trees | -                                                                      | [view](https://github.com/minhhoccode111/binary-search-trees-top)       | `JS` `DSA`                                                    |
-| HashMap             | -                                                                      | [view](https://github.com/minhhoccode111/hash-map-top)                  | `JS` `DSA`                                                    |
-| Linked Lists        | -                                                                      | [view](https://github.com/minhhoccode111/linked-lists-top)              | `JS` `DSA`                                                    |
-| Recursion           | -                                                                      | [view](https://github.com/minhhoccode111/recursion-top)                 | `JS` `DSA` `Jest`                                             |
-| Whether App         | [view](https://weatherapptop.netlify.app/)                             | [view](https://github.com/minhhoccode111/weather-app-top)               | `React` `Tailwind` `Vite` `Giphy-api` `Weather-api` `Netlify` |
-| Todo List           | [view](https://minhhoccode111.github.io/todo-list-top/)                | [view](https://github.com/minhhoccode111/todo-list-top/)                | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
-| Connect Four Game   | [view](https://minhhoccode111.github.io/connect-four-game-top/)        | [view](https://github.com/minhhoccode111/connect-four-game-top/)        | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
-| Restaurant Page     | [view](https://minhhoccode111.github.io/restaurant-page-top/)          | [view](https://github.com/minhhoccode111/restaurant-page-top/)          | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
-| Tic Tac Toe         | [view](https://minhhoccode111.github.io/tic-tac-toe-top/)              | [view](https://github.com/minhhoccode111/tic-tac-toe-top/)              | `JS` `HTML` `CSS` `DSA` `Gh-pages`                            |
-| Library             | [view](https://librarytop.netlify.app/)                                | [view](https://github.com/minhhoccode111/library-top/)                  | `TS` `React` `React router` `Tailwind` `Vite` `Netlify`       |
-| Snake Game          | [view](https://minhhoccode111.github.io/snake-game/)                   | [view](https://github.com/minhhoccode111/snake-game/)                   | `JS` `HTML` `CSS` `Gh-pages`                                  |
-| Admin Dashboard     | [view](https://minhhoccode111.github.io/admin-dashboard-top/)          | [view](https://github.com/minhhoccode111/admin-dashboard-top/)          | `JS` `HTML` `CSS` `Gh-pages`                                  |
-| Sign Up Page        | [view](https://minhhoccode111.github.io/sign-up-form-top/)             | [view](https://github.com/minhhoccode111/sign-up-form-top/)             | `JS` `HTML` `CSS` `Gh-pages`                                  |
-| Calculator          | [view](https://minhhoccode111.github.io/calculator-on-web-top/)        | [view](https://github.com/minhhoccode111/calculator-on-web-top/)        | `JS` `HTML` `CSS` `Gh-pages`                                  |
-| Drawing App         | [view](https://minhhoccode111.github.io/etch-a-sketch-top/)            | [view](https://github.com/minhhoccode111/etch-a-sketch-top/)            | `JS` `HTML` `CSS` `Gh-pages`                                  |
-| RPS                 | [view](https://minhhoccode111.github.io/rock-paper-scissors-game-top/) | [view](https://github.com/minhhoccode111/rock-paper-scissors-game-top/) | `JS` `HTML` `CSS` `Gh-pages`                                  |
-| Landing Page        | [view](https://minhhoccode111.github.io/landing-page-top/)             | [view](https://github.com/minhhoccode111/landing-page-top/)             | `HTML` `CSS` `Gh-pages`                                       |
-| Recipes Website     | [view](https://minhhoccode111.github.io/recipes-website-top/)          | [view](https://github.com/minhhoccode111/recipes-website-top)           | `JS` `HTML` `CSS` `Webpack` `Tailwind` `Gh-pages`             |
+| Name               | Deploy                                                                 | Repo                                                                    | Tech stack and tools                                          |
+| ------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Real World Express | -                                                                      | [view](https://github.com/minhhoccode111/0-realworld-back-express)      | `Express` `MongoDB` `Mongoose` `JWT` `Rest.nvim`              |
+| Focus Train        | [view](https://focustrain.vercel.app)                                  | [view](https://github.com/minhhoccode111/focus-train)                   | `React` `Tailwind` `Vite` `Netlify`                           |
+| Homepage           | [view](https://minhhoccode111.github.io/homepage-top/)                 | [view](https://github.com/minhhoccode111/homepage-top)                  | `JS` `HTML` `CSS` `Webpack` `Tailwind` `Gh-pages`             |
+| Battleship         | [view](https://minhhoccode111.github.io/battleship-top/)               | [view](https://github.com/minhhoccode111/battleship-top/)               | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
+| Testing Practice   | -                                                                      | [view](https://github.com/minhhoccode111/testing-practice-top)          | `JS` `Jest`                                                   |
+| Operate Algorithms | [view](https://knighttravailstop.netlify.app/)                         | [view](https://github.com/minhhoccode111/operate-algorithms/)           | `React` `Tailwind` `Vite` `Netlify`                           |
+| Whether App        | [view](https://weatherapptop.netlify.app/)                             | [view](https://github.com/minhhoccode111/weather-app-top)               | `React` `Tailwind` `Vite` `Giphy-api` `Weather-api` `Netlify` |
+| Todo List          | [view](https://minhhoccode111.github.io/todo-list-top/)                | [view](https://github.com/minhhoccode111/todo-list-top/)                | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
+| Connect Four Game  | [view](https://minhhoccode111.github.io/connect-four-game-top/)        | [view](https://github.com/minhhoccode111/connect-four-game-top/)        | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
+| Restaurant Page    | [view](https://minhhoccode111.github.io/restaurant-page-top/)          | [view](https://github.com/minhhoccode111/restaurant-page-top/)          | `JS` `HTML` `CSS` `Webpack` `Gh-pages`                        |
+| Tic Tac Toe        | [view](https://minhhoccode111.github.io/tic-tac-toe-top/)              | [view](https://github.com/minhhoccode111/tic-tac-toe-top/)              | `JS` `HTML` `CSS` `DSA` `Gh-pages`                            |
+| Library            | [view](https://librarytop.netlify.app/)                                | [view](https://github.com/minhhoccode111/library-top/)                  | `TS` `React` `React router` `Tailwind` `Vite` `Netlify`       |
+| Snake Game         | [view](https://minhhoccode111.github.io/snake-game/)                   | [view](https://github.com/minhhoccode111/snake-game/)                   | `JS` `HTML` `CSS` `Gh-pages`                                  |
+| Admin Dashboard    | [view](https://minhhoccode111.github.io/admin-dashboard-top/)          | [view](https://github.com/minhhoccode111/admin-dashboard-top/)          | `JS` `HTML` `CSS` `Gh-pages`                                  |
+| Sign Up Page       | [view](https://minhhoccode111.github.io/sign-up-form-top/)             | [view](https://github.com/minhhoccode111/sign-up-form-top/)             | `JS` `HTML` `CSS` `Gh-pages`                                  |
+| Calculator         | [view](https://minhhoccode111.github.io/calculator-on-web-top/)        | [view](https://github.com/minhhoccode111/calculator-on-web-top/)        | `JS` `HTML` `CSS` `Gh-pages`                                  |
+| Drawing App        | [view](https://minhhoccode111.github.io/etch-a-sketch-top/)            | [view](https://github.com/minhhoccode111/etch-a-sketch-top/)            | `JS` `HTML` `CSS` `Gh-pages`                                  |
+| RPS                | [view](https://minhhoccode111.github.io/rock-paper-scissors-game-top/) | [view](https://github.com/minhhoccode111/rock-paper-scissors-game-top/) | `JS` `HTML` `CSS` `Gh-pages`                                  |
+| Landing Page       | [view](https://minhhoccode111.github.io/landing-page-top/)             | [view](https://github.com/minhhoccode111/landing-page-top/)             | `HTML` `CSS` `Gh-pages`                                       |
+| Recipes Website    | [view](https://minhhoccode111.github.io/recipes-website-top/)          | [view](https://github.com/minhhoccode111/recipes-website-top)           | `JS` `HTML` `CSS` `Webpack` `Tailwind` `Gh-pages`             |
 
 </details>
 
@@ -127,20 +107,21 @@ Cool Stuffs I Want To Try
 - C, Rust, Zig
 - Go, C#, OCaml
 - HTMX, Vue, Qwik
-- SQL, PostgreSQL, Redis
+- SQL, PostgreSQL, Redis, MS SQL
 - GraphQL
 - Docker, Kubernetes
 - AWS, Fly
 
 Computer Science
 
-- [CS50](https://cs50.harvard.edu/x/2024/weeks/) (x)
+- [CS50](https://cs50.harvard.edu/x/2024/weeks/) (X)
 - [OSSU](https://github.com/ossu/computer-science)
 - [CIU](https://github.com/jwasham/coding-interview-university)
 
-More
+Development
 
-- [DevOps](https://github.com/MichaelCade/90DaysOfDevOps) (...)
+- [Tools](https://missing.csail.mit.edu/) (...)
+- [DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [System Design](https://github.com/donnemartin/system-design-primer)
 
 </details>
@@ -164,13 +145,8 @@ More
 <details>
 <summary><strong>Hit Me Up</strong></summary>
 
-- Gmail: minhhoccode111@gmail.com
+- Gmail: <minhhoccode111@gmail.com>
 - [Linked In](https://www.linkedin.com/in/mhc111/)
 - [Facebook](https://www.facebook.com/profile.php?id=100004116347129)
-- [Twitter](https://twitter.com/MinhgnaoH)
 
 </details>
-
-<!-- template
-| Name | [view]() | [view]() |  `CSS`  |
--->
