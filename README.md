@@ -2,11 +2,9 @@
 
 My name is Minh.
 
-A Vietnamese student who wanted to become a developer. 😆
+I kick-started my career in web development with [The Odin Project Curriculum](https://www.theodinproject.com/paths/full-stack-javascript) and enhanced my craft with a lot of inspiration from [The Primeagen](https://youtu.be/1UXHsCT18wE?si=LPrc_wPtp0ky-QMW&t=70).
 
-I kick-started my career in web development with [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript) and enhanced my journey with a lot of inspiration from [The Primeagen](https://youtu.be/1UXHsCT18wE?si=LPrc_wPtp0ky-QMW&t=70).
-
-It was really fun ( :
+It was really fun 😆
 
 <details>
 <summary><strong>My Toolkit</strong></summary>
@@ -23,8 +21,8 @@ Key Competencies
 Basic Knowledge
 
 - Lang: C, C#, Python, Lua, SQL
-- Front: NextJS
-- Back: Flask, SQLite
+- Front: NextJS, Bootstrap
+- Back: Flask, SQLite, .NET Core
 - Testing: Vitest
 - Deploy: Netlify, Gh-pages
 
@@ -33,7 +31,7 @@ My Environment
 - OS: Ubuntu
 - Editor: Neovim
 - Terminal: Alacritty
-- Browser: Brave
+- Browser: Firefox
 - Note: Obsidian
 - Sync: MegaSync
 
@@ -47,6 +45,7 @@ My Environment
 
 | Name                | Deploy                                             | Repo                                                                 | Tech Stacks and Tools                                                                                                                                                                                                                       |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Game Management     | -                                                  | [view](https://github.com/minhhoccode111/game-management)            | `C#` `.NET` `MVC` `Razor` `SQLite` `EF Core` `Bootstrap`                                                                                                                                                                                    |
 | Personal Site       | (...)                                              | [view](https://github.com/minhhoccode111/personal-site)              | Back: `Express` `MongoDB` `Mongoose` `Passport` `Google Auth` `JWT` `Rest.nvim` `Glitch` <br> Front:                                                                                                                                        |
 | Exercises           | -                                                  | [view](https://github.com/minhhoccode111/exercises)                  |                                                                                                                                                                                                                                             |
 | CS50x               | -                                                  | [view](https://github.com/minhhoccode111/cs50x)                      | `Scratch` `C` `DSA` `Python` `SQL` `HTML` `CSS` `JS` `Flask` `Security` `AI`                                                                                                                                                                |
@@ -110,7 +109,7 @@ Cool Stuffs I Want To Try
 - SQL, PostgreSQL, Redis, MS SQL
 - GraphQL
 - Docker, Kubernetes
-- AWS, Fly
+- AWS
 
 Computer Science
 
@@ -143,7 +142,7 @@ Development
 </details>
 
 <details>
-<summary><strong>Hit Me Up</strong></summary>
+<summary><strong>Contact Me</strong></summary>
 
 - Gmail: <minhhoccode111@gmail.com>
 - [Linked In](https://www.linkedin.com/in/mhc111/)
