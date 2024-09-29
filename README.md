@@ -91,7 +91,7 @@ It was really fun 😆
 | Computer Science | [CS50x](https://cs50.harvard.edu/x/2024/weeks/)                      | [X](https://github.com/minhhoccode111/cs50x)                  |
 |                  | [MIT](https://missing.csail.mit.edu/)                                | [...](https://github.com/minhhoccode111/missing-semester-mit) |
 |                  | [CIU](https://github.com/jwasham/coding-interview-university)        |                                                               |
-|                  | [OSSU](https://github.com/ossu/computer-science)                     |                                                               |
+|                  | [CS](https://teachyourselfcs.com/)                                   |                                                               |
 | Other            |                                                                      |                                                               |
 
 </details>
@@ -106,7 +106,7 @@ It was really fun 😆
   - Watch [The Primeagen](https://www.youtube.com/@ThePrimeTimeagen) and [Theo](https://www.youtube.com/@t3dotgg) (really great engineers and content creators at the same time, love both 😆)
   - Or listen to [Ca Hoi Hoang](https://www.youtube.com/@cahoihoang) and [Ngot](https://www.youtube.com/c/Ng%E1%BB%8Dtband) (sadly, they both disbanded)
   - Or read [Vagabond](https://drive.google.com/drive/u/0/folders/1o7A4S189u5SZyDmnbok3sN9rvu3q39me) and Berserk
-  - Or watch HxH and Haikyu!!
+  - Or watch HxH and Haikyuu!!
 
 </details>
 
