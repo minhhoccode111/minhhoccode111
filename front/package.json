@@ -1,5 +1,5 @@
 {
-  "name": "bulletproof-react-vite",
+  "name": "minhhoccode111-react-vite",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -15,7 +15,8 @@
     "generate": "plop",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "run-mock-server": "vite-node mock-server.ts | pino-pretty -c"
+    "run-mock-server": "vite-node mock-server.ts | pino-pretty -c",
+    "deploy": "yarn run build && git checkout gh-pages && git add dist -f && git commit -m 'Deployment commit' && git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
