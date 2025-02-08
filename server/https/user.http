@@ -1,0 +1,35 @@
+# return index.html
+GET http://localhost:3000/index
+
+# return "successful"
+# manually type because the {{url}} === http://localhost:3000/api
+GET http://localhost:3000/test
+
+# sign up
+POST {{url}}/users
+Content-Type: application/json
+{
+  "user": {
+    "username":"khong dieu kien",
+    "email":"taivisao@gmail.com",
+    "password":"Bruh0!0!"
+  }
+}
+
+# update user
+PUT {{url}}/user
+Authorization: {{token1}}
+Content-Type: application/json
+{
+  "user": {
+    "email": "minhhoccode111@gmail.com",
+    "username": "1234",
+    "password": "Bruh0!0!",
+    "image": "https://avatars.githubusercontent.com/u/39550308",
+    "bio": "I write code (sometimes)"
+  }
+}
+
+# get current user
+GET {{url}}/user
+Authorization: {{token0}}

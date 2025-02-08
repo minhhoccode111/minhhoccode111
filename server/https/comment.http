@@ -1,0 +1,18 @@
+# addCommentsToArticle,
+POST {{url}}/articles/6684024862643a82fb7bb8a1/comments
+Authorization: {{token1}}
+Content-Type: application/json
+{
+  "comment": {
+    "body": "third comment"
+  }
+}
+
+6684024862643a82fb7bb8a1
+
+# getCommentsFromArticle,
+GET {{url}}/articles/6684024862643a82fb7bb8a1/comments
+
+# deleteComment,
+DELETE {{url}}/articles/6684024862643a82fb7bb8a1/comments/668405e05f278ba68c186d49
+Authorization: {{token1}}
