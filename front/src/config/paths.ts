@@ -1,4 +1,27 @@
 export const paths = {
+  demos: {
+    home: {
+      path: '/',
+      getHref: () => '/',
+    },
+    about: {
+      path: '/about',
+      getHref: () => '/about',
+    },
+    blog: {
+      path: '/blog',
+      getHref: () => '/blog',
+    },
+    project: {
+      path: '/project',
+      getHref: () => '/project',
+    },
+    game: {
+      path: '/game',
+      getHref: () => '/game',
+    },
+  },
+
   home: {
     path: '/',
     getHref: () => '/',

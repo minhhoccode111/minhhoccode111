@@ -11,9 +11,21 @@ import { api } from './api-client';
 // these are not part of features as this is a module shared across features
 
 const getUser = async (): Promise<User> => {
-  const response = await api.get('/auth/me');
+  // const response = await api.get('/auth/me');
 
-  return response.data;
+  // return response.data;
+
+  // TODO: change back to above
+  return new Promise((resolve) => {
+    resolve({
+      firstName: 'dang',
+      lastName: 'minh',
+      email: 'minhhoccode111@gmail.com',
+      role: 'ADMIN',
+      teamId: '1234567890',
+      bio: 'Hello, World!',
+    } as User);
+  });
 };
 
 const logout = (): Promise<void> => {

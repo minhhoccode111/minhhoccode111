@@ -25,60 +25,87 @@ const convert = (queryClient: QueryClient) => (m: any) => {
 export const createAppRouter = (queryClient: QueryClient) =>
   createHashRouter([
     {
-      path: paths.home.path,
-      lazy: () => import('./routes/landing').then(convert(queryClient)),
+      path: paths.demos.home.path,
+      lazy: () => import('./demos/landing').then(convert(queryClient)),
     },
     {
-      path: paths.auth.register.path,
-      lazy: () => import('./routes/auth/register').then(convert(queryClient)),
+      path: paths.demos.about.path,
+      lazy: () => import('./demos/about').then(convert(queryClient)),
     },
     {
-      path: paths.auth.login.path,
-      lazy: () => import('./routes/auth/login').then(convert(queryClient)),
+      path: paths.demos.blog.path,
+      lazy: () => import('./demos/blog').then(convert(queryClient)),
     },
     {
-      path: paths.app.root.path,
-      element: (
-        <ProtectedRoute>
-          <AppRoot />
-        </ProtectedRoute>
-      ),
-      ErrorBoundary: AppRootErrorBoundary,
-      children: [
-        {
-          path: paths.app.discussions.path,
-          lazy: () =>
-            import('./routes/app/discussions/discussions').then(
-              convert(queryClient),
-            ),
-        },
-        {
-          path: paths.app.discussion.path,
-          lazy: () =>
-            import('./routes/app/discussions/discussion').then(
-              convert(queryClient),
-            ),
-        },
-        {
-          path: paths.app.users.path,
-          lazy: () => import('./routes/app/users').then(convert(queryClient)),
-        },
-        {
-          path: paths.app.profile.path,
-          lazy: () => import('./routes/app/profile').then(convert(queryClient)),
-        },
-        {
-          path: paths.app.dashboard.path,
-          lazy: () =>
-            import('./routes/app/dashboard').then(convert(queryClient)),
-        },
-      ],
+      path: paths.demos.project.path,
+      lazy: () => import('./demos/project').then(convert(queryClient)),
+    },
+    {
+      path: paths.demos.game.path,
+      lazy: () => import('./demos/game').then(convert(queryClient)),
     },
     {
       path: '*',
-      lazy: () => import('./routes/not-found').then(convert(queryClient)),
+      lazy: () => import('./demos/not-found').then(convert(queryClient)),
     },
   ]);
+
+// createHashRouter([
+//   {
+//     path: paths.home.path,
+//     lazy: () => import('./routes/landing').then(convert(queryClient)),
+//   },
+//   {
+//     path: paths.auth.register.path,
+//     lazy: () => import('./routes/auth/register').then(convert(queryClient)),
+//   },
+//   {
+//     path: paths.auth.login.path,
+//     lazy: () => import('./routes/auth/login').then(convert(queryClient)),
+//   },
+//   {
+//     path: paths.app.root.path,
+//     element: (
+//       <ProtectedRoute>
+//         <AppRoot />
+//       </ProtectedRoute>
+//     ),
+//     ErrorBoundary: AppRootErrorBoundary,
+//     children: [
+//       {
+//         path: paths.app.discussions.path,
+//         lazy: () =>
+//           import('./routes/app/discussions/discussions').then(
+//             convert(queryClient),
+//           ),
+//       },
+//       {
+//         path: paths.app.discussion.path,
+//         lazy: () =>
+//           import('./routes/app/discussions/discussion').then(
+//             convert(queryClient),
+//           ),
+//       },
+//       {
+//         path: paths.app.users.path,
+//         lazy: () => import('./routes/app/users').then(convert(queryClient)),
+//       },
+//       {
+//         path: paths.app.profile.path,
+//         lazy: () => import('./routes/app/profile').then(convert(queryClient)),
+//       },
+//       {
+//         path: paths.app.dashboard.path,
+//         lazy: () =>
+//           import('./routes/app/dashboard').then(convert(queryClient)),
+//       },
+//     ],
+//   },
+//   {
+//     path: '*',
+//     lazy: () => import('./routes/not-found').then(convert(queryClient)),
+//   },
+// ]);
 
 export const AppRouter = () => {
   const queryClient = useQueryClient();
