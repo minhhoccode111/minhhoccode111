@@ -1,6 +1,6 @@
 {
   "homepage": "https://minhhoccode111.github.io/minhhoccode111",
-  "name": "minhhoccode111-react-vite",
+  "name": "minhhoccode111",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -16,8 +16,7 @@
     "generate": "plop",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "run-mock-server": "vite-node mock-server.ts | pino-pretty -c",
-    "deploy": "yarn build && gh-pages -d dist"
+    "run-mock-server": "vite-node mock-server.ts | pino-pretty -c"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
@@ -93,7 +92,6 @@
     "eslint-plugin-testing-library": "^6.2.2",
     "eslint-plugin-vitest": "^0.5.4",
     "express": "^4.19.2",
-    "gh-pages": "^6.3.0",
     "husky": "^9.0.11",
     "jest-environment-jsdom": "^29.7.0",
     "js-cookie": "^3.0.5",
