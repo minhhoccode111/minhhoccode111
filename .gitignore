@@ -5,3 +5,23 @@ google.env
 
 # normal environment variables
 # .env
+
+# gems and ruby for blog dir
+vendor/
+.bundle/
+.gem/
+.rbenv-version
+.ruby-version
+.ruby-gemset
+
+# lock file of Bundler
+Gemfile.lock
+
+# cache and log
+.log/
+tmp/
+.sass-cache/
+.jekyll-cache/
+
+# build file of Jekyll
+_site/
