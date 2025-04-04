@@ -1,3 +1,0 @@
-# get a profile
-GET {{url}}/profiles/6683fc1823d6f519e9a72fe8
-Authorization: {{token0}}

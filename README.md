@@ -1,6 +1,6 @@
 ![Pepe Violin](pepe-violin.webp)
 
-<p style="text-align: right;"><i>Trust the process</i></p>
+<p style="text-align: right;"><i style="">Trust the process</i></p>
 
 ## Hi
 
@@ -27,7 +27,7 @@ When I'm not writing code, you will find me either:
 
 - Gmail: <minhhoccode111@gmail.com>
 - Github: <https://github.com/minhhoccode111>
-- My site: <https://minhhoccode111.github.io>
+- Website: <https://minhhoccode111.github.io>
 - Exercism: <https://exercism.org/profiles/minhhoccode111>
 
 <!-- <div class="youtube-wrapper" style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0;"> -->
