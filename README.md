@@ -1,11 +1,11 @@
 ![Pepe Violin](pepe-violin.webp)
 
-<p style="text-align: right;"><i style="">Trust the process</i></p>
+<div align="right"><i>- Trust the process -</i></div>
 
 ## Hi
 
 I'm Minh Dang (aka minhhoccode111), a [self-taught](https://www.theodinproject.com/) software developer from Vietnam.
-I love learning, solving problems and building things (in Neovim btw).
+I love learning, solving problems and building things (in [Neovim](https://github.com/minhhoccode111/nvim) btw).
 Lately, I've been enjoying [Go](https://go.dev/)! 😆
 
 When I'm not writing code, you will find me either:
@@ -30,7 +30,8 @@ When I'm not writing code, you will find me either:
 - Website: <https://minhhoccode111.github.io>
 - Exercism: <https://exercism.org/profiles/minhhoccode111>
 
-<!-- <div class="youtube-wrapper" style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0;"> -->
+<!-- <div class="youtube-wrapper" style="position: relative; width: 75%; padding-bottom: 42.1875%; margin: 1rem auto;"> -->
+<!-- <div class="youtube-wrapper" style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem auto;"> -->
 <!--   <iframe -->
 <!--     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" -->
 <!--     src="https://www.youtube.com/embed/QIyc6NKS5J0" -->
