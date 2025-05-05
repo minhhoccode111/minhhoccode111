@@ -1,6 +1,6 @@
 ![Pepe Violin](pepe-violin.webp)
 
-<div align="right"><i>- Trust the process -</i></div>
+<div align="right"><i>--- Trust the process ---</i></div>
 
 ## Hi
 
@@ -12,8 +12,7 @@ When I'm not writing code, you will find me either:
 
 - Watch [The Primeagen](https://www.youtube.com/watch?v=tNZnLkRBYA8) ([He has been with me the whole journey](https://www.youtube.com/watch?v=96VlfN7ViyE))
 - Listen to [Ca Hoi Hoang](https://www.youtube.com/@cahoihoang) and [Ngot](https://www.youtube.com/c/Ng%E1%BB%8Dtband)
-- Read [Vagabond](https://drive.google.com/drive/u/0/folders/1o7A4S189u5SZyDmnbok3sN9rvu3q39me) and **Berserk**
-- Watch **HxH** and **Haikyuu!!**
+- Read [Vagabond](https://drive.google.com/drive/u/0/folders/1o7A4S189u5SZyDmnbok3sN9rvu3q39me), watch **HxH** and **Haikyuu!!**
 
 ## Environment
 
