@@ -4,25 +4,25 @@
 
 ## Hi
 
-I'm Minh Dang (aka minhhoccode111), a [self-taught](https://www.theodinproject.com/) software developer from Vietnam.
-I love learning, solving problems and building things (in [Neovim](https://github.com/minhhoccode111/nvim) btw).
-Lately, I've been enjoying [Go](https://go.dev/)! 😆
+I'm Minh Dang (aka **minhhoccode111**), a [self-taught](https://www.theodinproject.com/) software developer from Vietnam.
+I love learning, solving problems and building things (in [NeoVim](https://github.com/minhhoccode111/nvim) btw).
+Lately, I've been enjoying [Go](https://go.dev/) 🔥
 
 When I'm not writing code, you will find me either:
 
-- Watch [The Primeagen](https://www.youtube.com/watch?v=tNZnLkRBYA8) ([He has been with me the whole journey](https://www.youtube.com/watch?v=96VlfN7ViyE))
+- Watch [The Primeagen](https://www.youtube.com/watch?v=QIyc6NKS5J0) ([He has been with me the whole journey](https://www.youtube.com/watch?v=96VlfN7ViyE))
 - Listen to [Ca Hoi Hoang](https://www.youtube.com/@cahoihoang) and [Ngot](https://www.youtube.com/c/Ng%E1%BB%8Dtband)
 - Read [Vagabond](https://drive.google.com/drive/u/0/folders/1o7A4S189u5SZyDmnbok3sN9rvu3q39me), watch **HxH** and **Haikyuu!!**
 
-## Environment
+## Env
 
-- **[Arch](https://archlinux.org/)** (btw)
-- **[Neovim](https://neovim.io/)**
-- **[Ghostty](https://ghostty.org/)**
+- **[Ubuntu](https://ubuntu.com/)**
+- **[NeoVim](https://neovim.io/)**
+- **[Alacritty](https://alacritty.org/)**
 - **[Brave](https://brave.com/)**
 - **[Obsidian](https://obsidian.md/)**
 
-## Ask me questions
+## Contacts
 
 - Gmail: <minhhoccode111@gmail.com>
 - Github: <https://github.com/minhhoccode111>
