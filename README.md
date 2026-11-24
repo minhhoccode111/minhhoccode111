@@ -8,16 +8,18 @@ I'm Minh Dang (aka **minhhoccode111**), a software developer from Vietnam.
 I love learning, solving problems and building things (in [NeoVim](https://github.com/minhhoccode111/nvim) btw).
 Lately, I've been enjoying [Go](https://go.dev/).
 
-When I'm not writing code, you will find me either:
+When I'm not writing code, you will find me:
 
-- Watch [The Primeagen](https://www.youtube.com/watch?v=QIyc6NKS5J0) ([He has been with me the whole journey](https://www.youtube.com/watch?v=96VlfN7ViyE))
-- Listen to [Ca Hoi Hoang](https://www.youtube.com/@cahoihoang) and [Ngot](https://www.youtube.com/c/Ng%E1%BB%8Dtband)
-- Read [Vagabond](https://drive.google.com/drive/u/0/folders/1o7A4S189u5SZyDmnbok3sN9rvu3q39me), watch **HxH** and **Haikyuu!!**
+- Watching [The Primeagen](https://www.youtube.com/watch?v=QIyc6NKS5J0) ([he has been with me the whole journey](https://www.youtube.com/watch?v=96VlfN7ViyE))
+- Listening to [Ca Hoi Hoang](https://www.youtube.com/@cahoihoang) and [Ngot](https://www.youtube.com/c/Ng%E1%BB%8Dtband)
+- Reading [Vagabond](https://drive.google.com/drive/u/0/folders/1o7A4S189u5SZyDmnbok3sN9rvu3q39me), or watching **HxH** and **Haikyuu!!**
 
 ## Environment
 
 - **[Ubuntu](https://ubuntu.com/)**
 - **[NeoVim](https://neovim.io/)**
+- **[tmux](https://github.com/tmux/tmux)**
+- **[OpenCode](https://opencode.ai/)**
 - **[Ghostty](https://ghostty.org/)**
 - **[Brave](https://brave.com/)**
 - **[Obsidian](https://obsidian.md/)**
@@ -25,7 +27,7 @@ When I'm not writing code, you will find me either:
 ## Contacts
 
 - Gmail: <minhhoccode111@gmail.com>
-- Github: <https://github.com/minhhoccode111>
+- GitHub: <https://github.com/minhhoccode111>
 - Website: <https://minhhoccode111.github.io>
 - Exercism: <https://exercism.org/profiles/minhhoccode111>
 
